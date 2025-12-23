@@ -211,4 +211,4 @@ function removeFromQueue(socket) {
 }
 
 const PORT = process.env.PORT || 3000;
-http.listen(PORT, () => console.log(`✅ Rosalia001 Random Chatroom running on http://localhost:${PORT}`));
+http.listen(PORT, () => console.log(`✅ Roselia Chatroom running on http://localhost:${PORT}`));
